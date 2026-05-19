@@ -3,9 +3,9 @@ The Monitoring and Notification Module is responsible for tracking and managing 
 
 
 ## Tech Stack
-Language: PHP / JavaScript / Python
-Framework: Laravel (Backend API) / React (Frontend)
-Database: MySQL
+- **Language:** PHP / JavaScript / Python
+- **Framework:** Laravel (Backend API) / React (Frontend)
+- **Database:** MySQL
 
 ## Installation Guide
 
